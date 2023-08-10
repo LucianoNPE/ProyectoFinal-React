@@ -1,0 +1,23 @@
+.texto{
+    display: flex;;
+    padding: 20px;
+    max-width: 700px;
+    color: rgb(0, 0, 0);
+    border: solid ;
+    justify-content: center;
+
+}
+
+.subtexto{
+    color: white;
+    padding: 20px;
+    background-color: black;
+}
+
+.cuerpo{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    flex-direction: column;
+    margin: 100px;
+}

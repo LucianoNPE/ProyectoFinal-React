@@ -1,0 +1,11 @@
+.CartItemImg {
+  width: 150px;
+  height: 150px;
+}
+
+.btn-eliminar {
+  color: red;
+  font-size: 12px;
+  padding: 4px 4px;
+  width: 10%;
+}
